@@ -9,6 +9,8 @@
 
 
 
+The following are some output examples:
+
 ![Output Example](/assets/images/example1.png)
 
 ![Output Example](/assets/images/example2.png)
