@@ -9,7 +9,9 @@
 
 
 
-![Output Example](/assets/images/example.png)
+![Output Example](/assets/images/example1.png)
+
+![Output Example](/assets/images/example2.png)
 
 
 
